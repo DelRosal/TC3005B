@@ -1,0 +1,16 @@
+{
+  "name": "tc3005b",
+  "version": "1.0.0",
+  "description": "test suit",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "ana",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^123.0.2",
+    "mocha": "^10.4.0",
+    "selenium-webdriver": "^4.19.0"
+  }
+}
